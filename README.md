@@ -9,7 +9,7 @@ Customer churn occurs in every business to consumer relationship and for the bus
 The method for predicting customer churn is a supervised learning method using data from the past. More specifically, we find customers that have already churned (response) and their characteristics (predictors) before the churn occurred. Using this historical data, we fit a model that finds a relationship between the predictors to the reponse. 
 
 ### Methods & Tools
-* Explaroatory statistical analysis;
+* Exploratory data analysis;
 * Predictive modeling;
 * Data munging/processing
 * Data visualisation;
